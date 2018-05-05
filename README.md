@@ -1,2 +1,2 @@
 # primaryProject_python
-From newcoder primary project
+python primary project
